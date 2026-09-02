@@ -14,8 +14,8 @@ services:
     name: revenue-rescue-frontend
     runtime: node
     rootDir: frontend
-    buildCommand: npm install -g pnpm && pnpm install --frozen-lockfile && pnpm build
-    startCommand: pnpm start
+    buildCommand: npx pnpm install --frozen-lockfile && npx pnpm build
+    startCommand: npx pnpm start
     plan: free
     envVars:
       - key: NEXT_PUBLIC_API_URL
