@@ -14,7 +14,7 @@ services:
     name: revenue-rescue-frontend
     runtime: node
     rootDir: frontend
-    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm build
+    buildCommand: npm install -g pnpm && pnpm install --frozen-lockfile && pnpm build
     startCommand: pnpm start
     plan: free
     envVars:
