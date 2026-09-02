@@ -1,0 +1,4002 @@
+[
+  {
+    "payment_id": "pay_rec_1001",
+    "customer_id": "cust_2679",
+    "amount": 619,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1002",
+    "customer_id": "cust_2535",
+    "amount": 719,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1003",
+    "customer_id": "cust_9928",
+    "amount": 609,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1004",
+    "customer_id": "cust_3615",
+    "amount": 949,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1005",
+    "customer_id": "cust_2674",
+    "amount": 989,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1006",
+    "customer_id": "cust_1711",
+    "amount": 5479,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1007",
+    "customer_id": "cust_5803",
+    "amount": 13109,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1008",
+    "customer_id": "cust_2139",
+    "amount": 4869,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1009",
+    "customer_id": "cust_2654",
+    "amount": 539,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1010",
+    "customer_id": "cust_4432",
+    "amount": 3669,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1011",
+    "customer_id": "cust_3803",
+    "amount": 2799,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1012",
+    "customer_id": "cust_4598",
+    "amount": 1559,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1013",
+    "customer_id": "cust_6168",
+    "amount": 3439,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1014",
+    "customer_id": "cust_6155",
+    "amount": 10649,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1015",
+    "customer_id": "cust_5339",
+    "amount": 11269,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1016",
+    "customer_id": "cust_7543",
+    "amount": 2529,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1017",
+    "customer_id": "cust_1771",
+    "amount": 759,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1018",
+    "customer_id": "cust_2040",
+    "amount": 849,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1019",
+    "customer_id": "cust_1188",
+    "amount": 1519,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1020",
+    "customer_id": "cust_6573",
+    "amount": 7189,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1021",
+    "customer_id": "cust_5315",
+    "amount": 2959,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1022",
+    "customer_id": "cust_5889",
+    "amount": 5879,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1023",
+    "customer_id": "cust_9837",
+    "amount": 699,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1024",
+    "customer_id": "cust_1319",
+    "amount": 15229,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1025",
+    "customer_id": "cust_1949",
+    "amount": 15309,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1026",
+    "customer_id": "cust_2133",
+    "amount": 879,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1027",
+    "customer_id": "cust_3705",
+    "amount": 4449,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1028",
+    "customer_id": "cust_4295",
+    "amount": 1439,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1029",
+    "customer_id": "cust_9479",
+    "amount": 1769,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1030",
+    "customer_id": "cust_4770",
+    "amount": 509,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1031",
+    "customer_id": "cust_1514",
+    "amount": 2749,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1032",
+    "customer_id": "cust_9834",
+    "amount": 849,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1033",
+    "customer_id": "cust_8749",
+    "amount": 1969,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1034",
+    "customer_id": "cust_7735",
+    "amount": 719,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1035",
+    "customer_id": "cust_7596",
+    "amount": 2329,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1036",
+    "customer_id": "cust_8350",
+    "amount": 599,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1037",
+    "customer_id": "cust_8260",
+    "amount": 2799,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1038",
+    "customer_id": "cust_1241",
+    "amount": 839,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1039",
+    "customer_id": "cust_8886",
+    "amount": 14349,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1040",
+    "customer_id": "cust_7396",
+    "amount": 699,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1041",
+    "customer_id": "cust_8973",
+    "amount": 1869,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1042",
+    "customer_id": "cust_1998",
+    "amount": 10749,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1043",
+    "customer_id": "cust_9701",
+    "amount": 2029,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1044",
+    "customer_id": "cust_2113",
+    "amount": 599,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1045",
+    "customer_id": "cust_1651",
+    "amount": 959,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1046",
+    "customer_id": "cust_5272",
+    "amount": 2079,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1047",
+    "customer_id": "cust_5915",
+    "amount": 709,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1048",
+    "customer_id": "cust_2638",
+    "amount": 5079,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1049",
+    "customer_id": "cust_2127",
+    "amount": 979,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1050",
+    "customer_id": "cust_9666",
+    "amount": 4729,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1051",
+    "customer_id": "cust_3200",
+    "amount": 839,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1052",
+    "customer_id": "cust_4450",
+    "amount": 3639,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1053",
+    "customer_id": "cust_5114",
+    "amount": 1549,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1054",
+    "customer_id": "cust_1722",
+    "amount": 4239,
+    "payment_type": "invoice",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1055",
+    "customer_id": "cust_8239",
+    "amount": 1539,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1056",
+    "customer_id": "cust_3442",
+    "amount": 539,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1057",
+    "customer_id": "cust_1685",
+    "amount": 1309,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1058",
+    "customer_id": "cust_4441",
+    "amount": 3169,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1059",
+    "customer_id": "cust_7658",
+    "amount": 2149,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1060",
+    "customer_id": "cust_3900",
+    "amount": 14489,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1061",
+    "customer_id": "cust_7745",
+    "amount": 11369,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1062",
+    "customer_id": "cust_2771",
+    "amount": 3599,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1063",
+    "customer_id": "cust_8541",
+    "amount": 1409,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1064",
+    "customer_id": "cust_4164",
+    "amount": 3919,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1065",
+    "customer_id": "cust_9346",
+    "amount": 899,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1066",
+    "customer_id": "cust_5279",
+    "amount": 2929,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1067",
+    "customer_id": "cust_6663",
+    "amount": 559,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1068",
+    "customer_id": "cust_4114",
+    "amount": 2049,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1069",
+    "customer_id": "cust_4228",
+    "amount": 979,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1070",
+    "customer_id": "cust_3041",
+    "amount": 1679,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1071",
+    "customer_id": "cust_5844",
+    "amount": 709,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1072",
+    "customer_id": "cust_3851",
+    "amount": 1779,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1073",
+    "customer_id": "cust_4443",
+    "amount": 1009,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1074",
+    "customer_id": "cust_4501",
+    "amount": 1959,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1075",
+    "customer_id": "cust_5649",
+    "amount": 6399,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1076",
+    "customer_id": "cust_4848",
+    "amount": 919,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1077",
+    "customer_id": "cust_8784",
+    "amount": 519,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1078",
+    "customer_id": "cust_7291",
+    "amount": 2289,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1079",
+    "customer_id": "cust_2746",
+    "amount": 1019,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1080",
+    "customer_id": "cust_5082",
+    "amount": 4629,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1081",
+    "customer_id": "cust_6198",
+    "amount": 4409,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1082",
+    "customer_id": "cust_7991",
+    "amount": 12949,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1083",
+    "customer_id": "cust_5050",
+    "amount": 8889,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1084",
+    "customer_id": "cust_5499",
+    "amount": 4489,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1085",
+    "customer_id": "cust_9849",
+    "amount": 679,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1086",
+    "customer_id": "cust_2052",
+    "amount": 579,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1087",
+    "customer_id": "cust_7883",
+    "amount": 1129,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1088",
+    "customer_id": "cust_7232",
+    "amount": 6169,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1089",
+    "customer_id": "cust_7865",
+    "amount": 699,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1090",
+    "customer_id": "cust_5471",
+    "amount": 3409,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1091",
+    "customer_id": "cust_3704",
+    "amount": 849,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1092",
+    "customer_id": "cust_7455",
+    "amount": 14379,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1093",
+    "customer_id": "cust_8564",
+    "amount": 719,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1094",
+    "customer_id": "cust_7211",
+    "amount": 739,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1095",
+    "customer_id": "cust_1317",
+    "amount": 2709,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1096",
+    "customer_id": "cust_1659",
+    "amount": 6839,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1097",
+    "customer_id": "cust_4908",
+    "amount": 509,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1098",
+    "customer_id": "cust_5198",
+    "amount": 1449,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1099",
+    "customer_id": "cust_3683",
+    "amount": 2479,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1100",
+    "customer_id": "cust_7149",
+    "amount": 3779,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1101",
+    "customer_id": "cust_4978",
+    "amount": 859,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1102",
+    "customer_id": "cust_1672",
+    "amount": 5459,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1103",
+    "customer_id": "cust_1207",
+    "amount": 759,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1104",
+    "customer_id": "cust_8532",
+    "amount": 999,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1105",
+    "customer_id": "cust_9817",
+    "amount": 3609,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1106",
+    "customer_id": "cust_5022",
+    "amount": 4929,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1107",
+    "customer_id": "cust_7209",
+    "amount": 6999,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1108",
+    "customer_id": "cust_5232",
+    "amount": 749,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1109",
+    "customer_id": "cust_9464",
+    "amount": 4139,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1110",
+    "customer_id": "cust_4937",
+    "amount": 12009,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1111",
+    "customer_id": "cust_4630",
+    "amount": 1039,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1112",
+    "customer_id": "cust_9698",
+    "amount": 1759,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1113",
+    "customer_id": "cust_5438",
+    "amount": 1729,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1114",
+    "customer_id": "cust_9779",
+    "amount": 4299,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1115",
+    "customer_id": "cust_9595",
+    "amount": 4489,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1116",
+    "customer_id": "cust_3939",
+    "amount": 3719,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1117",
+    "customer_id": "cust_5786",
+    "amount": 529,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1118",
+    "customer_id": "cust_1200",
+    "amount": 4519,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1119",
+    "customer_id": "cust_5136",
+    "amount": 1379,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1120",
+    "customer_id": "cust_1878",
+    "amount": 11649,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1121",
+    "customer_id": "cust_2940",
+    "amount": 6699,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1122",
+    "customer_id": "cust_9561",
+    "amount": 2269,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1123",
+    "customer_id": "cust_6003",
+    "amount": 809,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1124",
+    "customer_id": "cust_4404",
+    "amount": 5819,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1125",
+    "customer_id": "cust_2229",
+    "amount": 629,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1126",
+    "customer_id": "cust_4792",
+    "amount": 1969,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1127",
+    "customer_id": "cust_5334",
+    "amount": 3299,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1128",
+    "customer_id": "cust_9922",
+    "amount": 1409,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1129",
+    "customer_id": "cust_3718",
+    "amount": 579,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1130",
+    "customer_id": "cust_8679",
+    "amount": 3689,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1131",
+    "customer_id": "cust_8172",
+    "amount": 9099,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1132",
+    "customer_id": "cust_1423",
+    "amount": 1669,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1133",
+    "customer_id": "cust_1339",
+    "amount": 5359,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1134",
+    "customer_id": "cust_3870",
+    "amount": 5329,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1135",
+    "customer_id": "cust_8141",
+    "amount": 6489,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1136",
+    "customer_id": "cust_6260",
+    "amount": 679,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1137",
+    "customer_id": "cust_7561",
+    "amount": 859,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1138",
+    "customer_id": "cust_2899",
+    "amount": 1649,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1139",
+    "customer_id": "cust_9889",
+    "amount": 5009,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1140",
+    "customer_id": "cust_8242",
+    "amount": 2279,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1141",
+    "customer_id": "cust_8941",
+    "amount": 1589,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1142",
+    "customer_id": "cust_6091",
+    "amount": 1499,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1143",
+    "customer_id": "cust_8560",
+    "amount": 929,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1144",
+    "customer_id": "cust_5479",
+    "amount": 3699,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1145",
+    "customer_id": "cust_7284",
+    "amount": 1939,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1146",
+    "customer_id": "cust_5526",
+    "amount": 3559,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1147",
+    "customer_id": "cust_1042",
+    "amount": 909,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1148",
+    "customer_id": "cust_3434",
+    "amount": 2359,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1149",
+    "customer_id": "cust_8460",
+    "amount": 889,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1150",
+    "customer_id": "cust_4826",
+    "amount": 14489,
+    "payment_type": "invoice",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1151",
+    "customer_id": "cust_7246",
+    "amount": 749,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1152",
+    "customer_id": "cust_1606",
+    "amount": 3629,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1153",
+    "customer_id": "cust_8213",
+    "amount": 559,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1154",
+    "customer_id": "cust_3529",
+    "amount": 579,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1155",
+    "customer_id": "cust_2315",
+    "amount": 819,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1156",
+    "customer_id": "cust_8994",
+    "amount": 4059,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1157",
+    "customer_id": "cust_2480",
+    "amount": 3679,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1158",
+    "customer_id": "cust_5906",
+    "amount": 1209,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1159",
+    "customer_id": "cust_8056",
+    "amount": 11209,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1160",
+    "customer_id": "cust_3868",
+    "amount": 2629,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1161",
+    "customer_id": "cust_3344",
+    "amount": 1499,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1162",
+    "customer_id": "cust_8622",
+    "amount": 2369,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1163",
+    "customer_id": "cust_5901",
+    "amount": 4309,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1164",
+    "customer_id": "cust_7302",
+    "amount": 939,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1165",
+    "customer_id": "cust_5837",
+    "amount": 1739,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1166",
+    "customer_id": "cust_1803",
+    "amount": 509,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1167",
+    "customer_id": "cust_4770",
+    "amount": 13699,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1168",
+    "customer_id": "cust_3240",
+    "amount": 2279,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1169",
+    "customer_id": "cust_1546",
+    "amount": 1639,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1170",
+    "customer_id": "cust_7807",
+    "amount": 659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1171",
+    "customer_id": "cust_9221",
+    "amount": 2989,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1172",
+    "customer_id": "cust_5835",
+    "amount": 8949,
+    "payment_type": "invoice",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1173",
+    "customer_id": "cust_4696",
+    "amount": 999,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1174",
+    "customer_id": "cust_7464",
+    "amount": 14569,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1175",
+    "customer_id": "cust_5295",
+    "amount": 2379,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1176",
+    "customer_id": "cust_8724",
+    "amount": 5889,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1177",
+    "customer_id": "cust_2035",
+    "amount": 2879,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1178",
+    "customer_id": "cust_1742",
+    "amount": 4179,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1179",
+    "customer_id": "cust_9807",
+    "amount": 5799,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1180",
+    "customer_id": "cust_9850",
+    "amount": 2529,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1181",
+    "customer_id": "cust_9017",
+    "amount": 719,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1182",
+    "customer_id": "cust_8264",
+    "amount": 859,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1183",
+    "customer_id": "cust_6876",
+    "amount": 2409,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1184",
+    "customer_id": "cust_4475",
+    "amount": 9729,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1185",
+    "customer_id": "cust_3063",
+    "amount": 909,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1186",
+    "customer_id": "cust_4538",
+    "amount": 4779,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1187",
+    "customer_id": "cust_3370",
+    "amount": 4949,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1188",
+    "customer_id": "cust_1422",
+    "amount": 10459,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1189",
+    "customer_id": "cust_3854",
+    "amount": 5419,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1190",
+    "customer_id": "cust_8802",
+    "amount": 1239,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1191",
+    "customer_id": "cust_1710",
+    "amount": 1929,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1192",
+    "customer_id": "cust_1510",
+    "amount": 1619,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1193",
+    "customer_id": "cust_8267",
+    "amount": 2409,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1194",
+    "customer_id": "cust_9984",
+    "amount": 1139,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1195",
+    "customer_id": "cust_8048",
+    "amount": 1609,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1196",
+    "customer_id": "cust_4522",
+    "amount": 5669,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1197",
+    "customer_id": "cust_2557",
+    "amount": 1929,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1198",
+    "customer_id": "cust_8770",
+    "amount": 989,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1199",
+    "customer_id": "cust_7105",
+    "amount": 549,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1200",
+    "customer_id": "cust_3002",
+    "amount": 2159,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1201",
+    "customer_id": "cust_1842",
+    "amount": 9469,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1202",
+    "customer_id": "cust_3535",
+    "amount": 9739,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1203",
+    "customer_id": "cust_2882",
+    "amount": 939,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1204",
+    "customer_id": "cust_1430",
+    "amount": 4799,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1205",
+    "customer_id": "cust_6062",
+    "amount": 2619,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1206",
+    "customer_id": "cust_7566",
+    "amount": 3089,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1207",
+    "customer_id": "cust_4524",
+    "amount": 12379,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1208",
+    "customer_id": "cust_2391",
+    "amount": 659,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1209",
+    "customer_id": "cust_5458",
+    "amount": 10209,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1210",
+    "customer_id": "cust_9394",
+    "amount": 1849,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1211",
+    "customer_id": "cust_9633",
+    "amount": 849,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1212",
+    "customer_id": "cust_4349",
+    "amount": 2229,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1213",
+    "customer_id": "cust_2965",
+    "amount": 629,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1214",
+    "customer_id": "cust_4770",
+    "amount": 699,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1215",
+    "customer_id": "cust_1693",
+    "amount": 2799,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1216",
+    "customer_id": "cust_7626",
+    "amount": 659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1217",
+    "customer_id": "cust_3815",
+    "amount": 509,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1218",
+    "customer_id": "cust_2734",
+    "amount": 3989,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1219",
+    "customer_id": "cust_6562",
+    "amount": 1819,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1220",
+    "customer_id": "cust_9355",
+    "amount": 829,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1221",
+    "customer_id": "cust_3419",
+    "amount": 989,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1222",
+    "customer_id": "cust_2234",
+    "amount": 809,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1223",
+    "customer_id": "cust_8354",
+    "amount": 2549,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1224",
+    "customer_id": "cust_6179",
+    "amount": 2279,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1225",
+    "customer_id": "cust_1920",
+    "amount": 1629,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1226",
+    "customer_id": "cust_5703",
+    "amount": 1079,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1227",
+    "customer_id": "cust_7299",
+    "amount": 5519,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1228",
+    "customer_id": "cust_4084",
+    "amount": 2669,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1229",
+    "customer_id": "cust_6626",
+    "amount": 539,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1230",
+    "customer_id": "cust_8172",
+    "amount": 10169,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1231",
+    "customer_id": "cust_5634",
+    "amount": 11499,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1232",
+    "customer_id": "cust_6482",
+    "amount": 1109,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1233",
+    "customer_id": "cust_3463",
+    "amount": 1589,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1234",
+    "customer_id": "cust_7421",
+    "amount": 679,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1235",
+    "customer_id": "cust_6381",
+    "amount": 789,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1236",
+    "customer_id": "cust_7937",
+    "amount": 4659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1237",
+    "customer_id": "cust_8967",
+    "amount": 989,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1238",
+    "customer_id": "cust_2657",
+    "amount": 659,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1239",
+    "customer_id": "cust_6517",
+    "amount": 4659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1240",
+    "customer_id": "cust_3712",
+    "amount": 10639,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1241",
+    "customer_id": "cust_8277",
+    "amount": 2479,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1242",
+    "customer_id": "cust_6070",
+    "amount": 3459,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1243",
+    "customer_id": "cust_8218",
+    "amount": 14399,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1244",
+    "customer_id": "cust_3655",
+    "amount": 2089,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1245",
+    "customer_id": "cust_8873",
+    "amount": 629,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1246",
+    "customer_id": "cust_5670",
+    "amount": 4619,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1247",
+    "customer_id": "cust_8167",
+    "amount": 2059,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1248",
+    "customer_id": "cust_7797",
+    "amount": 4439,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1249",
+    "customer_id": "cust_1461",
+    "amount": 549,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1250",
+    "customer_id": "cust_3254",
+    "amount": 4379,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1251",
+    "customer_id": "cust_8685",
+    "amount": 2709,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1252",
+    "customer_id": "cust_3449",
+    "amount": 639,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1253",
+    "customer_id": "cust_4893",
+    "amount": 1229,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1254",
+    "customer_id": "cust_2029",
+    "amount": 2629,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1255",
+    "customer_id": "cust_4963",
+    "amount": 1039,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1256",
+    "customer_id": "cust_7825",
+    "amount": 679,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1257",
+    "customer_id": "cust_9618",
+    "amount": 1739,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1258",
+    "customer_id": "cust_8702",
+    "amount": 1049,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1259",
+    "customer_id": "cust_2106",
+    "amount": 889,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1260",
+    "customer_id": "cust_6447",
+    "amount": 2589,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1261",
+    "customer_id": "cust_8612",
+    "amount": 829,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1262",
+    "customer_id": "cust_8498",
+    "amount": 3059,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1263",
+    "customer_id": "cust_6080",
+    "amount": 3179,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1264",
+    "customer_id": "cust_4131",
+    "amount": 1519,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1265",
+    "customer_id": "cust_3039",
+    "amount": 839,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1266",
+    "customer_id": "cust_7334",
+    "amount": 1909,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1267",
+    "customer_id": "cust_9507",
+    "amount": 1759,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1268",
+    "customer_id": "cust_3956",
+    "amount": 1889,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1269",
+    "customer_id": "cust_8305",
+    "amount": 839,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1270",
+    "customer_id": "cust_6776",
+    "amount": 3939,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1271",
+    "customer_id": "cust_7655",
+    "amount": 1119,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1272",
+    "customer_id": "cust_8179",
+    "amount": 2959,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1273",
+    "customer_id": "cust_1530",
+    "amount": 4509,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1274",
+    "customer_id": "cust_2259",
+    "amount": 8049,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1275",
+    "customer_id": "cust_2858",
+    "amount": 2339,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1276",
+    "customer_id": "cust_5288",
+    "amount": 2879,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1277",
+    "customer_id": "cust_9047",
+    "amount": 819,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1278",
+    "customer_id": "cust_8292",
+    "amount": 589,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1279",
+    "customer_id": "cust_2063",
+    "amount": 14659,
+    "payment_type": "invoice",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1280",
+    "customer_id": "cust_3852",
+    "amount": 579,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1281",
+    "customer_id": "cust_4878",
+    "amount": 609,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1282",
+    "customer_id": "cust_3126",
+    "amount": 1759,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1283",
+    "customer_id": "cust_9612",
+    "amount": 869,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1284",
+    "customer_id": "cust_2215",
+    "amount": 1259,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1285",
+    "customer_id": "cust_3981",
+    "amount": 2129,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1286",
+    "customer_id": "cust_9488",
+    "amount": 1119,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1287",
+    "customer_id": "cust_9501",
+    "amount": 869,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1288",
+    "customer_id": "cust_5961",
+    "amount": 9519,
+    "payment_type": "invoice",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1289",
+    "customer_id": "cust_3526",
+    "amount": 2219,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1290",
+    "customer_id": "cust_1674",
+    "amount": 8769,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1291",
+    "customer_id": "cust_5336",
+    "amount": 829,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1292",
+    "customer_id": "cust_9938",
+    "amount": 2309,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1293",
+    "customer_id": "cust_7653",
+    "amount": 2649,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1294",
+    "customer_id": "cust_8609",
+    "amount": 729,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1295",
+    "customer_id": "cust_6658",
+    "amount": 869,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1296",
+    "customer_id": "cust_4960",
+    "amount": 9609,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1297",
+    "customer_id": "cust_7293",
+    "amount": 549,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1298",
+    "customer_id": "cust_6123",
+    "amount": 6309,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1299",
+    "customer_id": "cust_6055",
+    "amount": 13919,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1300",
+    "customer_id": "cust_4524",
+    "amount": 1939,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1301",
+    "customer_id": "cust_8710",
+    "amount": 809,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1302",
+    "customer_id": "cust_6992",
+    "amount": 569,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1303",
+    "customer_id": "cust_6939",
+    "amount": 2169,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1304",
+    "customer_id": "cust_2946",
+    "amount": 2129,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1305",
+    "customer_id": "cust_6990",
+    "amount": 679,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1306",
+    "customer_id": "cust_1637",
+    "amount": 2029,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1307",
+    "customer_id": "cust_9446",
+    "amount": 1939,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1308",
+    "customer_id": "cust_5902",
+    "amount": 709,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1309",
+    "customer_id": "cust_5911",
+    "amount": 2009,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1310",
+    "customer_id": "cust_6040",
+    "amount": 559,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1311",
+    "customer_id": "cust_5350",
+    "amount": 2609,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1312",
+    "customer_id": "cust_1841",
+    "amount": 12369,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1313",
+    "customer_id": "cust_7229",
+    "amount": 2269,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1314",
+    "customer_id": "cust_4125",
+    "amount": 989,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1315",
+    "customer_id": "cust_9221",
+    "amount": 859,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1316",
+    "customer_id": "cust_9498",
+    "amount": 2759,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1317",
+    "customer_id": "cust_3837",
+    "amount": 2079,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1318",
+    "customer_id": "cust_5331",
+    "amount": 2389,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1319",
+    "customer_id": "cust_5876",
+    "amount": 789,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1320",
+    "customer_id": "cust_6714",
+    "amount": 4509,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1321",
+    "customer_id": "cust_9899",
+    "amount": 3679,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1322",
+    "customer_id": "cust_5712",
+    "amount": 3599,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1323",
+    "customer_id": "cust_8849",
+    "amount": 15349,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1324",
+    "customer_id": "cust_3249",
+    "amount": 789,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1325",
+    "customer_id": "cust_9700",
+    "amount": 529,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1326",
+    "customer_id": "cust_2647",
+    "amount": 669,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1327",
+    "customer_id": "cust_8793",
+    "amount": 6299,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1328",
+    "customer_id": "cust_1969",
+    "amount": 7639,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1329",
+    "customer_id": "cust_1611",
+    "amount": 12199,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1330",
+    "customer_id": "cust_1595",
+    "amount": 14369,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1331",
+    "customer_id": "cust_1151",
+    "amount": 7379,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1332",
+    "customer_id": "cust_9901",
+    "amount": 8749,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1333",
+    "customer_id": "cust_4159",
+    "amount": 759,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1334",
+    "customer_id": "cust_1230",
+    "amount": 3559,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1335",
+    "customer_id": "cust_7643",
+    "amount": 1399,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1336",
+    "customer_id": "cust_3303",
+    "amount": 849,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1337",
+    "customer_id": "cust_5374",
+    "amount": 699,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1338",
+    "customer_id": "cust_6890",
+    "amount": 10049,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1339",
+    "customer_id": "cust_9233",
+    "amount": 659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1340",
+    "customer_id": "cust_5833",
+    "amount": 12829,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1341",
+    "customer_id": "cust_7121",
+    "amount": 9919,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1342",
+    "customer_id": "cust_4578",
+    "amount": 2109,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1343",
+    "customer_id": "cust_9653",
+    "amount": 1169,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1344",
+    "customer_id": "cust_9281",
+    "amount": 1129,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1345",
+    "customer_id": "cust_2904",
+    "amount": 939,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1346",
+    "customer_id": "cust_1911",
+    "amount": 2049,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1347",
+    "customer_id": "cust_6049",
+    "amount": 1119,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1348",
+    "customer_id": "cust_1742",
+    "amount": 3399,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1349",
+    "customer_id": "cust_2130",
+    "amount": 1129,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1350",
+    "customer_id": "cust_7887",
+    "amount": 6479,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1351",
+    "customer_id": "cust_7154",
+    "amount": 2879,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1352",
+    "customer_id": "cust_6697",
+    "amount": 3549,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1353",
+    "customer_id": "cust_4648",
+    "amount": 569,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1354",
+    "customer_id": "cust_9920",
+    "amount": 13799,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1355",
+    "customer_id": "cust_5516",
+    "amount": 739,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1356",
+    "customer_id": "cust_7868",
+    "amount": 3139,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1357",
+    "customer_id": "cust_2653",
+    "amount": 6979,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1358",
+    "customer_id": "cust_1724",
+    "amount": 1099,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1359",
+    "customer_id": "cust_3295",
+    "amount": 949,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1360",
+    "customer_id": "cust_6253",
+    "amount": 4859,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1361",
+    "customer_id": "cust_5923",
+    "amount": 14139,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1362",
+    "customer_id": "cust_7999",
+    "amount": 2509,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1363",
+    "customer_id": "cust_9592",
+    "amount": 2319,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1364",
+    "customer_id": "cust_9813",
+    "amount": 699,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1365",
+    "customer_id": "cust_8586",
+    "amount": 869,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1366",
+    "customer_id": "cust_7363",
+    "amount": 15149,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1367",
+    "customer_id": "cust_7079",
+    "amount": 2889,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1368",
+    "customer_id": "cust_1647",
+    "amount": 639,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1369",
+    "customer_id": "cust_4555",
+    "amount": 12969,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1370",
+    "customer_id": "cust_4470",
+    "amount": 989,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1371",
+    "customer_id": "cust_4350",
+    "amount": 4469,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1372",
+    "customer_id": "cust_9743",
+    "amount": 649,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1373",
+    "customer_id": "cust_8692",
+    "amount": 2019,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1374",
+    "customer_id": "cust_4625",
+    "amount": 659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1375",
+    "customer_id": "cust_7841",
+    "amount": 2199,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1376",
+    "customer_id": "cust_9180",
+    "amount": 799,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1377",
+    "customer_id": "cust_9037",
+    "amount": 889,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1378",
+    "customer_id": "cust_9000",
+    "amount": 1289,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1379",
+    "customer_id": "cust_1554",
+    "amount": 15929,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1380",
+    "customer_id": "cust_7756",
+    "amount": 2699,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1381",
+    "customer_id": "cust_9285",
+    "amount": 579,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1382",
+    "customer_id": "cust_8993",
+    "amount": 2269,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1383",
+    "customer_id": "cust_5501",
+    "amount": 1039,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1384",
+    "customer_id": "cust_3937",
+    "amount": 2429,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1385",
+    "customer_id": "cust_5135",
+    "amount": 599,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1386",
+    "customer_id": "cust_8520",
+    "amount": 1769,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1387",
+    "customer_id": "cust_2320",
+    "amount": 849,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1388",
+    "customer_id": "cust_7179",
+    "amount": 2889,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1389",
+    "customer_id": "cust_8109",
+    "amount": 589,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1390",
+    "customer_id": "cust_1697",
+    "amount": 10789,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1391",
+    "customer_id": "cust_1762",
+    "amount": 2169,
+    "payment_type": "subscription",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1392",
+    "customer_id": "cust_1539",
+    "amount": 9449,
+    "payment_type": "invoice",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1393",
+    "customer_id": "cust_7525",
+    "amount": 609,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1394",
+    "customer_id": "cust_7375",
+    "amount": 12329,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1395",
+    "customer_id": "cust_2284",
+    "amount": 1289,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1396",
+    "customer_id": "cust_2245",
+    "amount": 729,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1397",
+    "customer_id": "cust_6347",
+    "amount": 9249,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1398",
+    "customer_id": "cust_7150",
+    "amount": 14009,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1399",
+    "customer_id": "cust_5839",
+    "amount": 1179,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1400",
+    "customer_id": "cust_3527",
+    "amount": 579,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1401",
+    "customer_id": "cust_8286",
+    "amount": 509,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1402",
+    "customer_id": "cust_9395",
+    "amount": 599,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1403",
+    "customer_id": "cust_6315",
+    "amount": 549,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1404",
+    "customer_id": "cust_4977",
+    "amount": 1179,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1405",
+    "customer_id": "cust_5397",
+    "amount": 1289,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1406",
+    "customer_id": "cust_2260",
+    "amount": 1869,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1407",
+    "customer_id": "cust_4203",
+    "amount": 5039,
+    "payment_type": "subscription",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1408",
+    "customer_id": "cust_7224",
+    "amount": 709,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1409",
+    "customer_id": "cust_3230",
+    "amount": 919,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1410",
+    "customer_id": "cust_7524",
+    "amount": 1989,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1411",
+    "customer_id": "cust_4971",
+    "amount": 12019,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1412",
+    "customer_id": "cust_4273",
+    "amount": 4499,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1413",
+    "customer_id": "cust_8563",
+    "amount": 4759,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1414",
+    "customer_id": "cust_7703",
+    "amount": 13409,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1415",
+    "customer_id": "cust_7932",
+    "amount": 629,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1416",
+    "customer_id": "cust_9755",
+    "amount": 13929,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1417",
+    "customer_id": "cust_6890",
+    "amount": 4729,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1418",
+    "customer_id": "cust_5067",
+    "amount": 1179,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1419",
+    "customer_id": "cust_7547",
+    "amount": 1099,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1420",
+    "customer_id": "cust_5239",
+    "amount": 10439,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1421",
+    "customer_id": "cust_8303",
+    "amount": 2409,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1422",
+    "customer_id": "cust_6651",
+    "amount": 2419,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1423",
+    "customer_id": "cust_3321",
+    "amount": 5709,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1424",
+    "customer_id": "cust_8801",
+    "amount": 5139,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1425",
+    "customer_id": "cust_2885",
+    "amount": 1139,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1426",
+    "customer_id": "cust_4996",
+    "amount": 909,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1427",
+    "customer_id": "cust_4798",
+    "amount": 719,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1428",
+    "customer_id": "cust_1478",
+    "amount": 839,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1429",
+    "customer_id": "cust_4519",
+    "amount": 1879,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1430",
+    "customer_id": "cust_9796",
+    "amount": 3259,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1431",
+    "customer_id": "cust_9019",
+    "amount": 1539,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1432",
+    "customer_id": "cust_2871",
+    "amount": 2259,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1433",
+    "customer_id": "cust_5873",
+    "amount": 2669,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1434",
+    "customer_id": "cust_6003",
+    "amount": 11289,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1435",
+    "customer_id": "cust_3258",
+    "amount": 699,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1436",
+    "customer_id": "cust_3838",
+    "amount": 2109,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1437",
+    "customer_id": "cust_1878",
+    "amount": 669,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1438",
+    "customer_id": "cust_9281",
+    "amount": 1399,
+    "payment_type": "one_time_checkout",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1439",
+    "customer_id": "cust_9006",
+    "amount": 2459,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1440",
+    "customer_id": "cust_5503",
+    "amount": 3909,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1441",
+    "customer_id": "cust_9115",
+    "amount": 5319,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1442",
+    "customer_id": "cust_7010",
+    "amount": 899,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1443",
+    "customer_id": "cust_7965",
+    "amount": 4309,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1444",
+    "customer_id": "cust_1528",
+    "amount": 4219,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1445",
+    "customer_id": "cust_2923",
+    "amount": 4299,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1446",
+    "customer_id": "cust_8015",
+    "amount": 4909,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1447",
+    "customer_id": "cust_6747",
+    "amount": 609,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1448",
+    "customer_id": "cust_5380",
+    "amount": 859,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1449",
+    "customer_id": "cust_7743",
+    "amount": 15669,
+    "payment_type": "invoice",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1450",
+    "customer_id": "cust_3174",
+    "amount": 14259,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1451",
+    "customer_id": "cust_3329",
+    "amount": 5769,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1452",
+    "customer_id": "cust_2525",
+    "amount": 1929,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1453",
+    "customer_id": "cust_8996",
+    "amount": 2799,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1454",
+    "customer_id": "cust_8511",
+    "amount": 3389,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1455",
+    "customer_id": "cust_8039",
+    "amount": 4689,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1456",
+    "customer_id": "cust_3139",
+    "amount": 649,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1457",
+    "customer_id": "cust_1752",
+    "amount": 2399,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1458",
+    "customer_id": "cust_3588",
+    "amount": 1259,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1459",
+    "customer_id": "cust_3161",
+    "amount": 6659,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1460",
+    "customer_id": "cust_6905",
+    "amount": 15799,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1461",
+    "customer_id": "cust_6005",
+    "amount": 7359,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1462",
+    "customer_id": "cust_1017",
+    "amount": 1189,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1463",
+    "customer_id": "cust_1152",
+    "amount": 2069,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1464",
+    "customer_id": "cust_3165",
+    "amount": 939,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1465",
+    "customer_id": "cust_6133",
+    "amount": 919,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1466",
+    "customer_id": "cust_3181",
+    "amount": 919,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1467",
+    "customer_id": "cust_3688",
+    "amount": 789,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1468",
+    "customer_id": "cust_8248",
+    "amount": 1319,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1469",
+    "customer_id": "cust_7291",
+    "amount": 889,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1470",
+    "customer_id": "cust_2380",
+    "amount": 4019,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1471",
+    "customer_id": "cust_1439",
+    "amount": 4169,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1472",
+    "customer_id": "cust_4090",
+    "amount": 769,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1473",
+    "customer_id": "cust_4921",
+    "amount": 959,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1474",
+    "customer_id": "cust_1197",
+    "amount": 2219,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1475",
+    "customer_id": "cust_9951",
+    "amount": 4829,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1476",
+    "customer_id": "cust_2106",
+    "amount": 5599,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1477",
+    "customer_id": "cust_9209",
+    "amount": 9269,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1478",
+    "customer_id": "cust_3501",
+    "amount": 2319,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1479",
+    "customer_id": "cust_3545",
+    "amount": 1419,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 3
+  },
+  {
+    "payment_id": "pay_rec_1480",
+    "customer_id": "cust_2083",
+    "amount": 2339,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1481",
+    "customer_id": "cust_2412",
+    "amount": 7959,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1482",
+    "customer_id": "cust_3877",
+    "amount": 10229,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1483",
+    "customer_id": "cust_6680",
+    "amount": 3679,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1484",
+    "customer_id": "cust_5403",
+    "amount": 3189,
+    "payment_type": "one_time_checkout",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1485",
+    "customer_id": "cust_5456",
+    "amount": 7749,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1486",
+    "customer_id": "cust_8457",
+    "amount": 15149,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1487",
+    "customer_id": "cust_5179",
+    "amount": 3189,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1488",
+    "customer_id": "cust_9336",
+    "amount": 1239,
+    "payment_type": "one_time_checkout",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1489",
+    "customer_id": "cust_7274",
+    "amount": 529,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1490",
+    "customer_id": "cust_7870",
+    "amount": 14079,
+    "payment_type": "invoice",
+    "failure_code": "insufficient_balance",
+    "retry_count": 1
+  },
+  {
+    "payment_id": "pay_rec_1491",
+    "customer_id": "cust_2276",
+    "amount": 8629,
+    "payment_type": "subscription",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1492",
+    "customer_id": "cust_9450",
+    "amount": 1109,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1493",
+    "customer_id": "cust_6090",
+    "amount": 4409,
+    "payment_type": "invoice",
+    "failure_code": "fraud_suspected",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1494",
+    "customer_id": "cust_5979",
+    "amount": 609,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1495",
+    "customer_id": "cust_4201",
+    "amount": 2019,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1496",
+    "customer_id": "cust_7718",
+    "amount": 3119,
+    "payment_type": "one_time_checkout",
+    "failure_code": "insufficient_balance",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1497",
+    "customer_id": "cust_6488",
+    "amount": 2429,
+    "payment_type": "subscription",
+    "failure_code": "temporary_bank_down",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1498",
+    "customer_id": "cust_4361",
+    "amount": 5979,
+    "payment_type": "subscription",
+    "failure_code": "card_expired",
+    "retry_count": 0
+  },
+  {
+    "payment_id": "pay_rec_1499",
+    "customer_id": "cust_3332",
+    "amount": 1129,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 2
+  },
+  {
+    "payment_id": "pay_rec_1500",
+    "customer_id": "cust_7102",
+    "amount": 9259,
+    "payment_type": "one_time_checkout",
+    "failure_code": "abandoned_checkout",
+    "retry_count": 0
+  }
+]

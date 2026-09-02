@@ -1,0 +1,8 @@
+# Core (required)
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+
+# Optional: only imported if ANTHROPIC_API_KEY is set. The app runs fully
+# standalone on the heuristic fallback without this installed.
+anthropic>=0.34.0
