@@ -370,10 +370,10 @@ function auditToEvent(a: BackendAudit): PaymentEvent {
 
 async function getAudits(count: number): Promise<BackendAudit[]> {
   const pageSize = Math.min(Math.max(count, 1), 500)
-  const res = await fetch(`${API_BASE}/audit-trail?page=1&page_size=${pageSize}`, {
-    cache: 'no-store',
-    signal: AbortSignal.timeout(10000),
-  })
+  // Replace: signal: AbortSignal.timeout(10000)
+const res = await fetch(`${API_BASE}/audit-trail?page=1&page_size=${pageSize}`, {
+  cache: 'no-store',
+})
   if (!res.ok) throw new Error(`API responded ${res.status}`)
   const json = (await res.json()) as AuditResponse
   return json.results
@@ -400,13 +400,13 @@ export async function runBatchSimulation(
   count = 100,
 ): Promise<{ data: DashboardData; live: boolean }> {
   try {
-    const res = await fetch(`${API_BASE}/run-simulation`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ batch_size: count, reset: false }),
-      cache: 'no-store',
-      signal: AbortSignal.timeout(30000),
-    })
+    // Replace: signal: AbortSignal.timeout(30000)
+const res = await fetch(`${API_BASE}/run-simulation`, {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ batch_size: count, reset: false }),
+  cache: 'no-store',
+})
     if (!res.ok) throw new Error(`API responded ${res.status}`)
     const json = (await res.json()) as SimulationResponse
     return {
