@@ -249,18 +249,21 @@ export function generateEvents(count: number, seed = Date.now()): PaymentEvent[]
   return events
 }
 
-/** Backend API adapter. The UI uses a stable dashboard shape while the
- * FastAPI service remains responsible for generation, AI diagnosis, policy,
- * execution and audit persistence.
+/** 
+ * Backend API URL Normalization.
+ * Strips accidental protocol strings, trailing slashes, and redundant /api endings,
+ * then guarantees that the final API_BASE strictly points to `.../api`.
  */
-const API_BASE_URL = (process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api").replace(/\/$/, "");
+const rawUrl = (process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api")
+  .trim()
+  .replace(/^https?:\/\//i, "")
+  .replace(/\/+$/, "")
+  .replace(/\/api$/i, "");
 
-// Render's `fromService.property: host` supplies only the hostname, while
-// local/.env.production configuration can supply a complete URL. Normalize
-// both forms into one base URL and avoid duplicate `/api` segments.
-const API_BASE = API_BASE_URL.startsWith("http://") || API_BASE_URL.startsWith("https://")
-  ? API_BASE_URL
-  : `https://${API_BASE_URL.replace(/\/api\/?$/, "")}/api`;
+const isLocalhost = rawUrl.startsWith("localhost") || rawUrl.startsWith("127.0.0.1");
+const protocol = isLocalhost ? "http://" : "https://";
+
+export const API_BASE = `${protocol}${rawUrl}/api`;
 
 type BackendAudit = {
   id: string
@@ -369,7 +372,7 @@ async function getAudits(count: number): Promise<BackendAudit[]> {
   const pageSize = Math.min(Math.max(count, 1), 500)
   const res = await fetch(`${API_BASE}/audit-trail?page=1&page_size=${pageSize}`, {
     cache: 'no-store',
-    signal: AbortSignal.timeout(5000),
+    signal: AbortSignal.timeout(10000),
   })
   if (!res.ok) throw new Error(`API responded ${res.status}`)
   const json = (await res.json()) as AuditResponse
